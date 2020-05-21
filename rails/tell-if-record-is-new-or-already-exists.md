@@ -1,4 +1,4 @@
-# How to tell if record is new or already exists
+# How To tell If Record Is New Or Already Exists
 
 The `new_record?` Active Record method can tell if a record is new or already exists
 
